@@ -8,5 +8,5 @@
 1. Open terminal in the directory with "gcc -o uMakefile umake.c target.c arg_parse.c"
 
 #### Running:
-1. Compile the game
+1. Compile the program
 2. Type the following command: ./uMakefile "makeFile code"
